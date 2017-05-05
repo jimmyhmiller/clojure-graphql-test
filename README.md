@@ -11,6 +11,17 @@ You will need Java ([instructions for macOS](https://medium.com/@sgnl/installing
 To start a web server for the application, run:
 
     lein ring server
+    
+## Sample Query
+
+```graphql
+{
+  hero(episode: JEDI) {
+    name
+    appears_in
+  }
+}
+```
 
 ## License
 
