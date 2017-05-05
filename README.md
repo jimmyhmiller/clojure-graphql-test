@@ -4,9 +4,7 @@ FIXME
 
 ## Prerequisites
 
-You will need [Leiningen][] 2.0.0 or above installed.
-
-[leiningen]: https://github.com/technomancy/leiningen
+You will need Java ([instructions for macOS](https://medium.com/@sgnl/installing-clojure-on-osx-eb3bf77908c9)) and [Leiningen](https://github.com/technomancy/leiningen) 2.0.0 or above installed.
 
 ## Running
 
